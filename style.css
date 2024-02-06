@@ -1,0 +1,23 @@
+.nav{
+	height:50px;
+	background: blue;
+}
+.nav div{
+	display: inline-block;
+	position: absolute;
+	left: 0;
+	padding: 15px;
+	font-size: 20px;
+	color: orange;
+}
+.nav ul{
+	positon: absolute;
+	right: 5px;
+}
+.nav ul li{
+	display: inline-block;
+}
+.nav ul li a{
+	color: orange;
+	padding: 5px;
+}
